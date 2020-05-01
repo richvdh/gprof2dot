@@ -34,6 +34,7 @@ else:
 formats = [
     "axe",
     "callgrind",
+    "collapse",
     "hprof",
     "json",
     "oprofile",
